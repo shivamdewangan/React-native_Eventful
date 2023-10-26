@@ -59,8 +59,9 @@ To get started with Eventful, follow the installation and usage instructions bel
 
 ## Previews
 
-![Homepage](https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/home.png)
-![Event](https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/event.png)
-![Budget](https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/budget.png)
-![List](https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/list.png)
-![Result](https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/result.png)
+<img src="https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/load.png" alt="Loading" style="width: 100%; max-width: 320px; margin: 10px; box-shadow: 0 0 0 4px #2a52be; border-radius: 4px;" />
+<img src="https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/home.png" alt="Homepage" style="width: 100%; max-width: 320px; margin: 10px; box-shadow: 0 0 0 4px #2a52be; border-radius: 4px;" />
+<img src="https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/event.png" alt="Event" style="width: 100%; max-width: 320px; margin: 10px; box-shadow: 0 0 0 4px #2a52be; border-radius: 4px;" />
+<img src="https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/budget.png" alt="Budget" style="width: 100%; max-width: 320px; margin: 10px; box-shadow: 0 0 0 4px #2a52be; border-radius: 4px;" />
+<img src="https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/list.png" alt="List" style="width: 100%; max-width: 320px; margin: 10px; box-shadow: 0 0 0 4px #2a52be; border-radius: 4px;" />
+<img src="https://raw.githubusercontent.com/shivamdewangan/React-native_Eventful/main/assets/preview/result.png" alt="Result" style="width: 100%; max-width: 320px; margin: 10px; box-shadow: 0 0 0 4px #2a52be; border-radius: 4px;" />
